@@ -4,4 +4,6 @@
 
 ## [SUI](https://github.com/MystenLabs/sui)
 
+[home](https://sui.io)
+
 ## [SEI](https://github.com/sei-protocol/sei-chain)
