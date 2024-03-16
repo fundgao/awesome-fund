@@ -14,3 +14,8 @@
 
 [home](https://www.sei.io)
 
+
+### 2024-03-16
+- APT: 15.44U
+- SUI: 1.69U
+- SEI: 1.07U
