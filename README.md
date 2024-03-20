@@ -15,7 +15,7 @@
 [home](https://www.sei.io)
 
 
-## [WLD](https://github.com/worldcoin)
+## [WLD](https://github.com/worldcoin) 2027-01-01 左右再抄底 或 看价格寻机抄底
 
 [home](https://worldcoin.org)
 
@@ -33,7 +33,7 @@ Worldcoin Community   Worldcoin社区 75亿
 
 发布时：5亿
 
-发布到第三年年底：40亿
+发布到第三年年底：40亿  2027-01-01
 
 第4年开始到第6年结束：57亿5千万 
 
