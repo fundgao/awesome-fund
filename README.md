@@ -66,7 +66,7 @@ Wld 每日有抛压，很难涨。
 
 
 ### 2024-03-21
-- APT: 15.60U  commit: 20500
-- SUI: 1.85U  commit: 12307
-- SEI: 0.87U  commit: 857
-- WLD: 8.37U 用户：445+万
+- APT: 15.60U  commit: 20500  hold: 180
+- SUI: 1.85U  commit: 12307  hold: 1282
+- SEI: 0.87U  commit: 857  hold: 3609
+- WLD: 8.37U 用户：445+万 hold: 0
