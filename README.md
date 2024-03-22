@@ -6,8 +6,16 @@
 
 ## [SUI](https://github.com/MystenLabs/sui)
 - [home](https://sui.io)
-- [SCB](https://sacabam.fun) sui链第一个meme
 
+### [SCB](https://sacabam.fun) 
+```
+sui链第一个meme
+总量 47000 亿。
+
+2024-03-22
+燃烧总量 5625 亿
+价格 0.0000000935 U
+```
 
 ## [SEI](https://github.com/sei-protocol/sei-chain)
 - [home](https://www.sei.io)
