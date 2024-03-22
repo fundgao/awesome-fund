@@ -1,7 +1,7 @@
 # apt-sui-sei-wld
 
 ## [APT](https://github.com/aptos-labs/aptos-core)
--[home](https://aptosfoundation.org)
+- [home](https://aptosfoundation.org)
 
 
 ## [SUI](https://github.com/MystenLabs/sui)
@@ -10,11 +10,11 @@
 
 
 ## [SEI](https://github.com/sei-protocol/sei-chain)
--[home](https://www.sei.io)
+- [home](https://www.sei.io)
 
 
 ## [WLD](https://github.com/worldcoin) 2027-01-01 左右再抄底 或 看价格寻机抄底
--[home](https://worldcoin.org)
+- [home](https://worldcoin.org)
 ```
 WLD总量100亿，目前已解锁将近1.2%，每日线性解锁312万，直到2024年7月24日开始每日解锁662万，
 其代币模型如下:
