@@ -6,8 +6,8 @@
 
 
 ## [SUI](https://github.com/MystenLabs/sui)
-
-[home](https://sui.io)
+- [home](https://sui.io)
+- [SCA](https://sacabam.fun) sui链第一个meme
 
 
 ## [SEI](https://github.com/sei-protocol/sei-chain)
