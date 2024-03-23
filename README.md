@@ -15,6 +15,10 @@ sui链第一个meme
 2024-03-22
 燃烧总量 5625 亿
 价格 0.0000000935 U
+
+2024-03-23
+持仓 28亿 223U
+
 ```
 
 ## [SEI](https://github.com/sei-protocol/sei-chain)
@@ -69,3 +73,13 @@ SUI: 1.85U  commit: 12307  hold: 1282
 SEI: 0.87U  commit: 857  hold: 3609
 WLD: 8.37U 用户：445+万 hold: 0
 ```
+
+### 2024-03-23
+```
+APT: 15.55U
+SUI: 1.70U
+SEI: 0.80U
+WLD: 8.10U 用户：450+万
+```
+
+
