@@ -83,5 +83,3 @@
 ### 附录
 
 1. [为什么要投资区块链数字资产](z-appendix.01.md)
-2. [为什么定投 BOX](z-appendix.02.md)
-3. [关于 b.watch](z-appendix.03.md)
