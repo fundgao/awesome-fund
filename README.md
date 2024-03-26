@@ -2,6 +2,15 @@
 
 ## [APT](https://github.com/aptos-labs/aptos-core)
 - [home](https://aptosfoundation.org)
+### [LME](https://legendaryme.me/) 
+```
+apt链第一个meme
+总量 1000 亿。
+
+2024-03-26
+持仓 636.5万
+价格 0.00001212 U
+```
 
 
 ## [SUI](https://github.com/MystenLabs/sui)
