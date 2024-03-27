@@ -93,8 +93,8 @@ WLD: 8.10U 用户：450+万
 
 ### 2024-03-27
 ```
-APT: 18.70U   commit: 20542
-SUI: 1.91U   commit: 12375
-SEI: 0.84U   commit: 861
+APT: 18.70U   commit: 20542   Contributors: 484
+SUI: 1.91U   commit: 12375   Contributors: 273
+SEI: 0.84U   commit: 861   Contributors: 31
 WLD: 8.86U 用户：459.3+ 万
 ```
