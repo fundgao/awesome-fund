@@ -35,7 +35,7 @@ sui链第一个meme
 持仓 28亿 223U
 
 2024-03-28
-持仓 29亿
+持仓 30亿
 ```
 
 ## [SEI](https://github.com/sei-protocol/sei-chain)
