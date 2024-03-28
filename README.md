@@ -1,4 +1,4 @@
-# 坚持定投10年不改变
+# 坚持定投10年不动摇
 
 ## [APT](https://github.com/aptos-labs/aptos-core)
 - [home](https://aptosfoundation.org)
