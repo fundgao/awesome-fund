@@ -24,7 +24,7 @@ Wormhole 平台由一组去中心化的团队开发，
 这些团队包括 Wormhole Foundation、Wormhole Labs、xLabs
 以及 Wormhole China、Superteam、Lurk（零知识证明工程）、Zpoken（零知识证明工程）等其他贡献者。
 ```
-
 ```
-
+2024-04-13
+w抄底价格 0.63u 5000个
 ```
