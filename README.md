@@ -30,6 +30,7 @@ apt链第一个meme
 
 ## [SUI](https://github.com/MystenLabs/sui)
 - [home](https://sui.io)
+- [SUI 质押教程](https://www.theblockbeats.info/news/43857)
 
 ### [SCB](https://sacabam.fun) 
 ```
@@ -58,6 +59,7 @@ sui链第一个meme
 
 ## [SEI](https://github.com/sei-protocol/sei-chain)
 - [home](https://www.sei.io)
+- [SEI 质押](https://app.sei.io/stake?tab=allValidators)
 
 
 ## [WLD](https://github.com/worldcoin) 2027-01-01 左右再抄底 或 看价格寻机抄底
