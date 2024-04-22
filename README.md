@@ -2,6 +2,8 @@
 
 ## [APT](https://github.com/aptos-labs/aptos-core)
 - [home](https://aptosfoundation.org)
+- [APT节点质押](https://explorer.aptoslabs.com/transactions?network=mainnet&type=user) [质押教程](https://cloud.tencent.com/developer/news/1117561)
+
 ### [LME](https://legendaryme.me/) 
 ```
 apt链第一个meme
