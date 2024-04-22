@@ -31,6 +31,8 @@ apt链第一个meme
 ## [SUI](https://github.com/MystenLabs/sui)
 - [home](https://sui.io)
 - [SUI 质押教程](https://www.theblockbeats.info/news/43857)
+- [SUI 节点质押1](https://suiscan.xyz/mainnet/validators)
+- [SUI 节点质押2](https://suivision.xyz/validators)
 
 ### [SCB](https://sacabam.fun) 
 ```
