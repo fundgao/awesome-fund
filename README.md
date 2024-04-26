@@ -174,3 +174,13 @@ SEI:  commit: 863   Contributors: 31
 W:   commit: 3654  Contributors: 81
 WLD:  用户：498.1+ 万
 ```
+
+### 2024-04-26
+```
+大跌
+W 清仓，怒赚 100u。
+SEI 赎回，28日到账。
+仓位逐步调整为 APT SUI
+WLD 开始定投，4u 以内的筹码都可入
+希望这个选择是对的。
+```
