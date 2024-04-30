@@ -184,3 +184,12 @@ SEI 赎回，28日到账。
 WLD 开始定投，4u 以内的筹码都可入
 希望这个选择是对的。
 ```
+
+### 2024-04-30
+```
+不跌了
+
+APT: 9.00U  commit: 20745   Contributors: 495  hold: 1570
+SUI: 1.17U  commit: 12694   Contributors: 284  hold: 3700
+WLD: 4.81U  用户：514.4+ 万  hold: 447
+```
