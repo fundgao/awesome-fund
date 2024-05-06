@@ -193,3 +193,10 @@ APT: 9.00U  commit: 20745   Contributors: 495  hold: 1570
 SUI: 1.17U  commit: 12694   Contributors: 284  hold: 3700
 WLD: 4.81U  用户：514.4+ 万  hold: 447
 ```
+
+### 2024-05-06
+```
+WLD: 5.77u 清仓
+大赚 374u
+目前价格 5.85u
+```
