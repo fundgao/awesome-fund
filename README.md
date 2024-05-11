@@ -64,6 +64,10 @@ sui链第一个meme
 - [SEI 质押](https://app.sei.io/stake?tab=allValidators)
 
 
+## [wormhole](https://github.com/wormhole-foundation/wormhole)
+- [home](https://wormhole.com)
+- 总量100亿 跨桥链
+
 ## [WLD](https://github.com/worldcoin) 2027-01-01 左右再抄底 或 看价格寻机抄底
 - [home](https://worldcoin.org)
 ```
