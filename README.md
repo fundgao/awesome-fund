@@ -4,6 +4,11 @@
 - [home](https://aptosfoundation.org)
 - [APT节点质押](https://explorer.aptoslabs.com/transactions?network=mainnet&type=user) [质押教程](https://cloud.tencent.com/developer/news/1117561)
 
+[![GitHub release](https://img.shields.io/github/release/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/fork)
+[![GitHub Contributors](https://img.shields.io/github/contributors/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/graphs/contributors)
+
 ### [LME](https://legendaryme.me/) 
 ```
 apt链第一个meme
