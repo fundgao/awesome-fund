@@ -9,6 +9,16 @@
 [![GitHub Forks](https://img.shields.io/github/forks/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/graphs/contributors)
 
+## Star History
+
+<a href="https://star-history.com/#MystenLabs/sui&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date" />
+  </picture>
+</a>
+
 ### [LME](https://legendaryme.me/) 
 ```
 apt链第一个meme
