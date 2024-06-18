@@ -33,6 +33,7 @@ apt链第一个meme
 - [SUI 质押教程](https://www.theblockbeats.info/news/43857)
 - [SUI 节点质押1](https://suiscan.xyz/mainnet/validators)
 - [SUI 节点质押2](https://suivision.xyz/validators)
+![GitHub commits](https://img.shields.io/github/commits-since/MystenLabs/sui/latest.svg?style=flat-square)
 
 ### [SCB](https://sacabam.fun) 
 ```
