@@ -8,7 +8,6 @@
 [![GitHub Stars](https://img.shields.io/github/stars/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/graphs/contributors)
-[![GitHub Commits](https://img.shields.io/github/commits/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/commit-activity)
 
 ### [LME](https://legendaryme.me/) 
 ```
@@ -39,7 +38,11 @@ apt链第一个meme
 - [SUI 质押教程](https://www.theblockbeats.info/news/43857)
 - [SUI 节点质押1](https://suiscan.xyz/mainnet/validators)
 - [SUI 节点质押2](https://suivision.xyz/validators)
-![GitHub commits](https://img.shields.io/github/commits-since/MystenLabs/sui/latest.svg?style=flat-square)
+
+[![GitHub release](https://img.shields.io/github/release/MystenLabs/sui)](https://github.com/MystenLabs/sui/releases)
+[![GitHub Stars](https://img.shields.io/github/stars/MystenLabs/sui)](https://github.com/MystenLabs/sui/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/MystenLabs/sui)](https://github.com/MystenLabs/sui/fork)
+[![GitHub Contributors](https://img.shields.io/github/contributors/MystenLabs/sui)](https://github.com/MystenLabs/sui/graphs/contributors)
 
 ### [SCB](https://sacabam.fun) 
 ```
