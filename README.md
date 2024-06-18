@@ -8,6 +8,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/graphs/contributors)
+[![GitHub Commits](https://img.shields.io/github/commits/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/commits)
 
 ### [LME](https://legendaryme.me/) 
 ```
