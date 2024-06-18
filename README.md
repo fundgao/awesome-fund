@@ -9,13 +9,13 @@
 [![GitHub Forks](https://img.shields.io/github/forks/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/aptos-labs/aptos-core)](https://github.com/aptos-labs/aptos-core/graphs/contributors)
 
-## Star History
+### Star History
 
-<a href="https://star-history.com/#MystenLabs/sui&Date">
+<a href="https://star-history.com/#aptos-labs/aptos-core&Date">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=aptos-labs/aptos-core&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=aptos-labs/aptos-core&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aptos-labs/aptos-core&type=Date" />
   </picture>
 </a>
 
@@ -53,6 +53,16 @@ apt链第一个meme
 [![GitHub Stars](https://img.shields.io/github/stars/MystenLabs/sui)](https://github.com/MystenLabs/sui/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/MystenLabs/sui)](https://github.com/MystenLabs/sui/fork)
 [![GitHub Contributors](https://img.shields.io/github/contributors/MystenLabs/sui)](https://github.com/MystenLabs/sui/graphs/contributors)
+
+### Star History
+
+<a href="https://star-history.com/#MystenLabs/sui&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=MystenLabs/sui&type=Date" />
+  </picture>
+</a>
 
 ### [SCB](https://sacabam.fun) 
 ```
