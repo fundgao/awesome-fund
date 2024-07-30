@@ -68,3 +68,4 @@ World App 的点对点支付支持 ENS 用户名，以实现更轻松的 ERC-20 
 区块链是一种去中心化的信息账本。为了与其进行交互，World App 使用 Alchemy，这是一个 Web3 开发平台，提供强大的工具来轻松构建和扩展 dapp，并处理超过 1000 亿美元的交易。    
 World App 的所有 Crypto 交易都将被发送到 Alchemy 进行链上处理。
 
+
